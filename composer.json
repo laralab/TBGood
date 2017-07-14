@@ -8,5 +8,10 @@
             "email": "develop@laralab.cn"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Laralab\\GoodsInfo\\": "GoodsInfo/"
+        }
+    }
 }
