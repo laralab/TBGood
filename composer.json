@@ -1,0 +1,12 @@
+{
+    "name": "laralab/tb-good",
+    "description": "A Laravel package - TaoBao Good information crawler",
+    "type": "library",
+    "authors": [
+        {
+            "name": "develop",
+            "email": "develop@laralab.cn"
+        }
+    ],
+    "require": {}
+}
